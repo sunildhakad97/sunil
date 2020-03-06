@@ -1,1 +1,1 @@
-cout<<hi;
+cout<<fact program;  // this is
